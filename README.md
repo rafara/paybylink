@@ -1,4 +1,4 @@
-# paybylink
+# pay by link
 
 example pay by link using adyen HPP flow documented here:
 
