@@ -24,7 +24,8 @@ The code of can be found in the php file (PBLindex.php)
  the link expires after first use.
  
 ================
-example email:
+
+*example email:*
 ```
 ---------- Forwarded message ----------
 From: Adyen Test <adyen_test@test.com>
