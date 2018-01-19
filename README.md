@@ -10,7 +10,7 @@ what actually happens behing the scenes is that an HPP page link gets compiled a
 ================
 example email:
 ---------- Forwarded message ----------
-From: Adyen Test <adyen_test@theory.com>
+From: Adyen Test <adyen_test@test.com>
 To: raymond.afara@adyen.com
 Cc: 
 Bcc: 
