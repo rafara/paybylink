@@ -4,6 +4,10 @@ example pay by link using adyen HPP flow documented here:
 
 https://docs.adyen.com/developers/features/hosted-payment-pages
 
+what actually happens behing the scenes is that an HPP page link gets compiled and sent to a shopper as an email. The code of this can be found in the php file
+
+
+================
 example email:
 ---------- Forwarded message ----------
 From: Adyen Test <adyen_test@theory.com>
