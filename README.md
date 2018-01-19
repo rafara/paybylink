@@ -20,8 +20,8 @@ The code of can be found in the php file (PBLindex.php)
 
 
 
- ** please don't complete the payment in the link below as this is for demo purposes **
- the link expires after first use.
+ **please don't complete the payment in the link below as this is for demo purposes**
+ *the link expires after first use.*
  
 ================
 
