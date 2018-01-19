@@ -15,12 +15,12 @@
 	$lastname = $names[$len-1];*/
 	error_reporting(E_ERROR | E_PARSE);
 
-	$shopperEmail      	= "raymond.afara@adyen.com";
-	$shopperName 		= "Raymond Afara";
+	$shopperEmail      	= "email@email.com";
+	$shopperName 		= "Shopper Name";
 
-	$skinCode 	   		= "FmDLArzH";
-	$merchantAccount   	= "RaymondAfara";
-	$hmacKey         	= "AED317ECD56FB9E4AE3CA43AC95E2F33FF0287404067E9811C920E60C99C064C";
+	$skinCode 	   		= "SKIN CODE";
+	$merchantAccount   	= "MERCHANT ACCOUNT";
+	$hmacKey         	= "HMAC KEY";
 
 	$merchantReference  = "Pay by Link - Test Order";
 
@@ -150,7 +150,7 @@
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 	// More headers
-	$headers .= 'From: Adyen Test<raymond.afara@adyen.com>' . "\r\n";
+	$headers .= 'From: Merchant <support@merchant.com>' . "\r\n";
 
 	mail($shopperEmail,$subject,$message,$headers);
 
