@@ -6,7 +6,9 @@ https://docs.adyen.com/developers/features/hosted-payment-pages
 
 what actually happens behing the scenes is that an HPP page link gets compiled and sent to a shopper as an email. The code of this can be found in the php file
 
-
+ ** please don't complete the payment in the link below as this is for demo purposes **
+ the link expires after first use.
+ 
 ================
 example email:
 ---------- Forwarded message ----------
@@ -20,6 +22,6 @@ Thanks for being a loyal customer.
 <img>
 	
 Total amount $10.00
-Here’s a link to that item you love - and a direct link to pay for it.http://bit.ly/2zSLG3J
+Here’s a link to that item you love - and a direct link to pay for it.http://bit.ly/2zSLG3J   
 
 Hope you enjoy it!
