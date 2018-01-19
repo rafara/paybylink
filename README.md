@@ -38,7 +38,7 @@ Thanks for being a loyal customer.
 <img>
 	
 Total amount $10.00
-Here’s a link to that item you love - and a direct link to pay for it.http://bit.ly/2zSLG3J   
+Here’s a link to that item you love - and a direct link to pay for it. http://bit.ly/2zSLG3J   
 
 Hope you enjoy it!
 ```
