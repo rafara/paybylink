@@ -3,6 +3,7 @@
 example pay by link using adyen HPP flow documented here:
 
 > HPP documentation: https://docs.adyen.com/developers/features/hosted-payment-pages
+
 > Notifications: https://docs.adyen.com/developers/payment-notifications
 
 what actually happens behing the scenes is that an HPP page link gets compiled and sent to a shopper as an email. 
